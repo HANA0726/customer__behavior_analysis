@@ -48,6 +48,8 @@ Wrote a professional project report summarizing methodology, key findings, data 
 ## 📸 Dashboard Preview
 
 Power BI interactive dashboard — filter by Gender, Category, Subscription Status, and Shipping Type.
+
+
 ![Dashboard](./dashboard_screenshot.png)
 
 ---
