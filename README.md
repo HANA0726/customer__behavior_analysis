@@ -1,5 +1,6 @@
-# 👨🏻‍💻 Customer Shopping Behavior Analysis
+## 👨🏻‍💻 Customer Shopping Behavior Analysis
 Customer Shopping Behavior Analysis Data analytics project exploring customer purchasing patterns using Python, PostgreSQL, and Power BI, with insights on customer segments, product performance, and revenue drivers.
+---
 
 ## 📌 Project Overview
 
@@ -38,7 +39,7 @@ customer-shopping-behavior-analysis/
 Ran 10 structured queries to answer real business questions
 
 ### ✅ Step 3 — Dashboard (Power BI)
-
+Built an interactive dashboard 
 ### ✅ Step 4 — Report & Presentation
 Wrote a professional project report summarizing methodology, key findings, data tables, and 6 strategic business recommendations. Also produced a presentation deck (`Customer-Shopping-Behavior-presentation.pdf`) to visually communicate insights to stakeholders.
 
