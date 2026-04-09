@@ -9,7 +9,7 @@ This project simulates a real-world data analytics workflow, taking raw retail d
 
 The analysis answers key business questions:
 - Which customer segments generate the most revenue?
-- What products are most rated and most discount-dependent?
+- Which products have the highest ratings and the highest discount dependency?
 - How do subscribers compare to non-subscribers in spending?
 - Which age groups and shipping preferences drive the most value?
 
@@ -40,7 +40,7 @@ customer-shopping-behavior-analysis/
 Ran 10 structured queries to answer real business questions
 
 ### ✅ Step 3 — Dashboard (Power BI)
-Built an interactive dashboard 
+Built an interactive dashboard to visualize KPIs and business trends 
 ### ✅ Step 4 — Report & Presentation
 Wrote a professional project report summarizing methodology, key findings, data tables, and 6 strategic business recommendations. Also produced a presentation deck (`Customer-Shopping-Behavior-presentation.pdf`) to visually communicate insights to stakeholders.
 
@@ -80,7 +80,12 @@ cd customer-shopping-behavior-analysis
 - Connect to your local PostgreSQL database if prompted
 
 ---
+## 📸 Dashboard Preview
 
+Power BI interactive dashboard — filter by Gender, Category, Subscription Status, and Shipping Type.
+
+---
+ 
 ## 🧰 Tech Stack
 
 | Tool | Purpose |
@@ -91,6 +96,12 @@ cd customer-shopping-behavior-analysis
 | Jupyter Notebook | EDA environment |
 
 ---
+## 👨‍💻 About Me
 
+I am a Data Science enthusiast focused on building end-to-end data projects and extracting actionable insights from data.
+
+This project is part of my portfolio to demonstrate real-world analytics skills.
+
+---
 
 > ⭐ If you found this project useful, consider starring the repo — it helps others find it too!
