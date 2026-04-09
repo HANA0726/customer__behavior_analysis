@@ -45,6 +45,12 @@ Built an interactive dashboard to visualize KPIs and business trends
 Wrote a professional project report summarizing methodology, key findings, data tables, and 6 strategic business recommendations. Also produced a presentation deck (`Customer-Shopping-Behavior-presentation.pdf`) to visually communicate insights to stakeholders.
 
 ---
+## 📸 Dashboard Preview
+
+Power BI interactive dashboard — filter by Gender, Category, Subscription Status, and Shipping Type.
+
+---
+
 
 ## 📊 Key Findings
 
@@ -78,11 +84,6 @@ cd customer-shopping-behavior-analysis
 **4. Open the Power BI dashboard**
 - Open `customer_behavior_dashboard.pbix` in Power BI Desktop
 - Connect to your local PostgreSQL database if prompted
-
----
-## 📸 Dashboard Preview
-
-Power BI interactive dashboard — filter by Gender, Category, Subscription Status, and Shipping Type.
 
 ---
  
